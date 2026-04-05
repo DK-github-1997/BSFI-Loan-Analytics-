@@ -23,4 +23,4 @@ It demonstrates how SQL can be used for **risk management, portfolio analysis, r
 - Top customers by loan exposure
 
 ---
-👨‍💻 Author: BFSI SQL Portfolio Project
+👨‍💻 Author: Dnyaneshvar Khairnar
